@@ -1,0 +1,13 @@
+#lol
+Im just create a new txt file. I want to learn more about git. 
+Maybe I would change someone else code?
+Maybe...
+
+
+
+If I want to push this file to GitHub, I need to take a three steps:
+1.I need to wrote a quote : git add . ("."- this is for untracked files(files we don't have on our github, try wrote a git status, and then check it) )
+2.I need to wrote a quote : git commit -m "some commit" (this is for wrote some discription, first attmept to our file, what is this)
+3.I need to wrote a quote : git push -u (I dont need to wrote a qoute "origin master")
+
+And this is it. 
